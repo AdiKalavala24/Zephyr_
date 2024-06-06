@@ -1,2 +1,2 @@
 # JUST LOOK AT BubbleSort
-## It utilizes sort.txt and the other file is not relevant to this
+## It utilizes sort.txt and MakeDirectories is not relevant to this
