@@ -1,7 +1,25 @@
+// IGNORE THIS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 //: c11:MakeDirectories.java
-// From 'Thinking in Java, 2nd ed.' by Bruce Eckel
-// www.BruceEckel.com. See copyright notice in CopyRight.txt.
 // Demonstrates the use of the File class to
 // create directories and manipulate files.
 import java.io.*;
